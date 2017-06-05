@@ -1,6 +1,6 @@
 
 body {
-    padding-top: 60px;
+    padding-top: 65px;
     padding-bottom: 90px;
 }
 .myFooter {
@@ -11,12 +11,13 @@ body {
     background: #fff;
 }
 
-    .well:hover {
-        background: #eff;
-    }
+.well:hover {
+    background: #eff;
+}
 
 .div-thumbnail {
     background: #ccc;
 }
+
 
 
